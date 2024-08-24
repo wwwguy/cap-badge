@@ -1,0 +1,7 @@
+{
+  "name": "CapBadge",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
